@@ -1,2 +1,3 @@
 # hello-world
-Hello world github guide
+Hello,
+My name is Donovan Vang and I am a student at UWM.
